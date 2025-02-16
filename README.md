@@ -1,4 +1,5 @@
 # Hikarier_Kittens_Main
+[English_Version](https://github.com/HikarierKittens/HikarierKittens/blob/main/readme_en.md)
 
 你好! 我是 Hikarier.Rrhar'il.Kittens（米哈伊尔.弭儿.克里斯）这是我的全名  
 你可以叫我：  
