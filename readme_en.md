@@ -37,6 +37,17 @@ If you want to know about me, I'll write here - though special content is exclud
   ▸ Homeworld of Nekomorph civilization  
   ▸ `?????` light-years from Earth  
 
+Flags:
+---
+- [√] Survive on Earth --100%
+- [ ] Try to retrieve warp drive technology --60%
+- [ ] Wait for Earthlings' nuclear fusion technology-- ~ 50%
+- [ ] Build nuclear fusion core and warp drive --0%
+- [ ] Complete warp ship construction --0%
+- [ ] Start the ship
+- [ ] Return to Meow Planet
+- [ ] **Current final goal:** Leave Earth/occupy Earth--5%
+
 ---
 
 # HikariersAI Knowledge Database
