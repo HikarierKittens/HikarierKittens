@@ -1,10 +1,10 @@
-# Hikarier_Kittens_Main{
+# Hikarier_Kittens_Main
 你好!，我是Hikarier.Rrhar'il.Kittens（米哈伊尔.弭儿.克里斯）这是我的全名
   你可以叫我"Hikarier.Kittens"（我的新名字，她正在广泛使用） / "Hikarier_Kittens"（只是一个下划线版本）
   你也可以叫我"Rrhar'il"（它可能比较拗口，虽然是我的本名）或者简称为 "Kit"
   如果你想知道关于我的事情，那么我会写在这里，但是并不包括特殊内容
-  }
-#About_Me{
+
+#About_Me
 关于我自己：
 我的名字：上面已经写了，我是Hikarier.Kittens，这是我的新名字，抛弃那个拗口的本名是一个困难的事情
 我的样貌：一只猫娘，紫色头发和耳朵，个子很小，看起来很可爱，生气的时候非常的吓人
@@ -15,7 +15,7 @@
 我的地址：现居于地球
 我来自哪里：来自"The Kittens Solars"，那里有一个很大的蓝色行星，是喵星人的星球，距离地球有?????个光年
 还有吗?我也不清楚要写什么东西，所以这一条就到这里
-}
-#Nothing{
+
+#Nothing
 return 0x0d000721;
-}
+
