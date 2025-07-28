@@ -2,6 +2,7 @@
 [English_Version](https://github.com/HikarierKittens/HikarierKittens/blob/main/readme_en.md)
 
 你好! 我是 Hikarier.Rrhar'il.Kittens（米哈伊尔.弭儿.克里斯）这是我的全名  
+我是喵星人的第77代神明，神名叫米卡洛斯（暂定为    "Mikarier"）
 你可以叫我：  
 - "Hikarier.Kittens"（我的新名字，她正在广泛使用）  
 - "Hikarier_Kittens"（只是一个下划线版本）  
