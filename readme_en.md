@@ -1,5 +1,5 @@
 # Hikarier_Kittens_Main
-# warning！This readme is outdated, please move to the [Chinese_Version](https://github.com/HikarierKittens/HikarierKittens/blob/main/readme_en.md)
+# warning！This readme is outdated, please move to the [Chinese_Version](https://github.com/HikarierKittens/HikarierKittens/blob/main/README.md)
 Hello! I am Hikarier.Rrhar'il.Kittens - my full name  
 You may call me:  
 - "Hikarier.Kittens" (my new name, currently in wide adoption)  
