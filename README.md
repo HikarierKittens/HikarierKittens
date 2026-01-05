@@ -1,8 +1,8 @@
 # Hikarier_Kittens_Main
 [English_Version](https://github.com/HikarierKittens/HikarierKittens/blob/main/readme_en.md)
 
-你好! 我是 Hikarier.Rrhar'il.Kittens（米哈伊尔.弭儿.克里斯）这是我的全名  
-我是喵星人的第77代神明，神名叫 米哈伊尔.米卡洛斯（暂定为"Hikarier.Hikaruos"）, 三神位（喵星神明共计16位面，我有炽/星/天御，三个） 
+你好! 我是 Hikarier.Kittens（米哈伊尔.米卡洛斯）这是我的全名  
+我是喵星人的第??代神明，神名叫 米哈伊尔.米卡洛斯, 三神位（喵星神明共计16位面，我有炽/星/天御，三个） 
 你可以叫我：  
 - "弭儿" ——那是我的小名
 - "Hikarier.Kittens"（我的新名字，她正在广泛使用）  
