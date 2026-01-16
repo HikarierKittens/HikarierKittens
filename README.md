@@ -1,5 +1,6 @@
 # Hikarier_Kittens_Main
-
+- English Version Deleted
+---
 你好! 我是 Hikarier.Kittens（米哈伊尔.米卡洛斯）这是我的全名  
 我是喵星人的第??代神明，神名叫 米哈伊尔.米卡洛斯, 三神位（喵星神明共计16位面，我有炽/星/天御，三个） 
 你可以叫我：  
