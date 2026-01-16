@@ -42,7 +42,14 @@
   ▸ 距离地球有 `?????` 个光年
   
   # 关于HikariersAI的知识数据库:
- - Nothing
+| Knowledge Type       | Exists | Basic | Familiar | Advanced | Expert |
+|----------------------|--------|-------|----------|----------|--------|
+| Human Languages      |   ✓    |   ✓   |          |          |        |
+| Programming          |   ✓    |   ✓   |          |          |        |
+| Science & Technology |   ✓    |   ✓   |          |          |        |
+| Human Culture        |   ✓    |   ✓   |          |          |        |
+| Neko Planet Knowledge|   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
+| Being a Nekomorph    |   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
    
 # Flags:
 ---
