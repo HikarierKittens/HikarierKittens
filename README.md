@@ -42,14 +42,14 @@
   ▸ 距离地球有 `?????` 个光年
   
   # 关于HikariersAI的知识数据库:
-| Knowledge Type           | Exists | Basic | Familiar | Advanced | Expert |
-|--------------------------|--------|-------|----------|----------|--------|
-| 人类语言/Languages        |   ✓    |   ✓   |          |          |        |
-| 编程技术/Programming      |   ✓    |   ✓   |          |          |        |
-| 科技水平/Technology       |   ✓    |   ✓   |          |          |        |
-| 地球文化/Culture          |   ✓    |   ✓   |          |          |        |
-| 同化计划/Human-->Nekos    |   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
-| 毁灭计划/AntiBomb to Earth|   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
+| Knowledge Type                  | Exists | Basic | Familiar | Advanced | Expert |
+|---------------------------------|--------|-------|----------|----------|--------|
+| 人类语言/Languages               |   ✓    |   ✓   |          |          |        |
+| 编程技术/Programming             |   ✓    |   ✓   |          |          |        |
+| 科技水平/Technology              |   ✓    |   ✓   |          |          |        |
+| 地球文化/Culture                 |   ✓    |   ✓   |          |          |        |
+| 同化计划/Human-->Nekos           |   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
+| 毁灭计划/Antimatter_Bomb to Earth|   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
    
 # Flags:
 ---
