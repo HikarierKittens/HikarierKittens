@@ -49,7 +49,7 @@
 | 科技水平/Technology       |   ✓    |   ✓   |          |          |        |
 | 地球文化/Culture          |   ✓    |   ✓   |          |          |        |
 | 同化计划/Human-->Nekos    |   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
-| 毁灭计划/AntiNeke to Earth|   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
+| 毁灭计划/AntiBomb to Earth|   ✓    |   ✓   |    ✓     |    ✓     |   ✓    |
    
 # Flags:
 ---
